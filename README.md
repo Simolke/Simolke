@@ -1,16 +1,19 @@
-## Hi there 👋
+# <a >Zach Simolke</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-<!--
-**Simolke/Simolke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+placeholder!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](vulnerability-management-program)** placeholder!
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](programmatic-vulnerability-remediations)** placeholder!
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](threat-hunting-scenario-tor)**
+
+<hr/>
+
+
+
+
