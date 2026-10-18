@@ -5,7 +5,7 @@ placeholder!
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](vulnerability-management-program)** placeholder!
+- **[Vulnerability Management Program Implementation](https://github.com/Simolke/vulnerability-management-program)** placeholder!
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](programmatic-vulnerability-remediations)** placeholder!
 
 ## 🚨 Threat Hunting and Security Operations
