@@ -12,7 +12,7 @@ Most importantly, I'm documenting my personal learning journey, building project
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Simolke/threat-hunting/blob/main/hunts/02-threat-hunting-scenario-TOR.md)**
 
 <hr/>
 
