@@ -7,14 +7,17 @@ Most importantly, I'm documenting my personal learning journey, building project
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/Simolke/vulnerability-management-program)** (WIP)
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](programmatic-vulnerability-remediations)** placeholder!
+- **[Vulnerability Management Program Implementation](https://github.com/Simolke/vulnerability-management-program)** (Coming Soon!)
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](programmatic-vulnerability-remediations)** (Coming soon!)
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunt: ECHOLEAK ](https://github.com/Simolke/threat-hunting/blob/main/hunts/01-ECHOLEAK.md)**
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Simolke/threat-hunting/blob/main/hunts/02-threat-hunting-scenario-TOR.md)**
 
+## 💻 DISA STIG Compliance Remediations
+
+- **[DISA STIG Remediations (Powershell)](placeholder)** (Coming soon!)
 <hr/>
 
 
