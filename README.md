@@ -17,7 +17,7 @@ Most importantly, I'm documenting my personal learning journey, building project
 
 ## 💻 DISA STIG Compliance Remediations
 
-- **[DISA STIG Remediations (Powershell)](placeholder)** (Coming soon!)
+- **[DISA STIG Remediations (Powershell)](https://github.com/Simolke/DISA-STIG-Remediations/)** 
 <hr/>
 
 
