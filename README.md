@@ -5,11 +5,6 @@ Hi! I'm Zach, a cybersecurity student constantly looking to learn new things as 
 Most importantly, I'm documenting my personal learning journey, building projects, and continuously exploring new tools over time. Take a look!
 
 
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/Simolke/vulnerability-management-program)** (Coming Soon!)
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Simolke/Programmatic-Vulnerability-Remediations)** (Coming soon!)
-
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunt: ECHOLEAK ](https://github.com/Simolke/threat-hunting/blob/main/hunts/01-ECHOLEAK.md)**
@@ -17,7 +12,12 @@ Most importantly, I'm documenting my personal learning journey, building project
 
 ## 💻 DISA STIG Compliance Remediations
 
-- **[DISA STIG Remediations (Powershell)](https://github.com/Simolke/DISA-STIG-Remediations/)** 
+- **[DISA STIG Remediations (Powershell)](https://github.com/Simolke/DISA-STIG-Remediations/)**
+
+  ## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/Simolke/vulnerability-management-program)** (Coming Soon!)
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Simolke/Programmatic-Vulnerability-Remediations)** (Coming soon!)
 <hr/>
 
 
