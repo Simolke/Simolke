@@ -8,7 +8,7 @@ Most importantly, I'm documenting my personal learning journey, building project
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Simolke/vulnerability-management-program)** (Coming Soon!)
-- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](programmatic-vulnerability-remediations)** (Coming soon!)
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Simolke/Programmatic-Vulnerability-Remediations)** (Coming soon!)
 
 ## 🚨 Threat Hunting and Security Operations
 
