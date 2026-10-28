@@ -14,7 +14,7 @@ Most importantly, I'm documenting my personal learning journey, building project
 
 - **[DISA STIG Remediations (Powershell)](https://github.com/Simolke/DISA-STIG-Remediations/)**
 
-  ## ⚠️ Vulnerability Management Projects
+## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Simolke/vulnerability-management-program)** (Coming Soon!)
 - **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/Simolke/Programmatic-Vulnerability-Remediations)** (Coming soon!)
